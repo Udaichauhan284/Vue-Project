@@ -8,11 +8,10 @@
             <a class="nav-item">
               <span class="tag is-rounded">Films</span>
             </a>
-            <a class="nav-item">Shows</a>
-            <a class="nav-item">Music</a>
+            
           </div>
           <div class="nav-right desktop">
-            <router-link to="/" class="nav-item title is-6">VueFlix</router-link>
+            <router-link to="/" class="nav-item title is-6">Movie App</router-link>
           </div>
         </div>
       </header>
